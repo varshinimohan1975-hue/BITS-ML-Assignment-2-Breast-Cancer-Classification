@@ -105,8 +105,7 @@ The test dataset is saved as `test_data.csv` and is used for evaluating the trai
 
 ## c. GitHub Repository Link
 
-**GitHub Repository:** [ADD YOUR GITHUB REPOSITORY LINK HERE]
-
+**GitHub Repository:** https://github.com/varshinimohan1975-hue/BITS-ML-Assignment-2-Breast-Cancer-Classification
 The repository contains the complete source code, preprocessing scripts, trained classification models, test dataset, evaluation results, requirements file and Streamlit application.
 
 ### Project Structure
@@ -256,7 +255,7 @@ An interactive web application was developed using Streamlit to demonstrate the 
 
 The application loads the previously trained and saved model files. It does not retrain any classifier using the uploaded test dataset.
 
-**Streamlit Application Link:** [ADD YOUR DEPLOYED STREAMLIT APP LINK HERE]
+**Streamlit Application Link:** https://bits-ml-assignment-2-breast-cancer-classification-hkzahahz7kno.streamlit.app/
 
 ---
 
